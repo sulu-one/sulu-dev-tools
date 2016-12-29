@@ -1,0 +1,24 @@
+{
+  "suluPackage": true,
+  "name": "sulu-dev-tools",
+  "version": "0.2.0",
+  "description": "Show Chrome Dev Tools in SULU fileexplorer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sulu-one/sulu-dev-tools.git"
+  },
+  "keywords": [
+    "sulu",
+    "fileexplorer"
+  ],
+  "author": "s-a",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sulu-one/sulu-dev-tools/issues"
+  },
+  "homepage": "https://github.com/sulu-one/sulu-dev-tools#readme"
+}
