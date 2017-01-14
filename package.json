@@ -1,7 +1,7 @@
 {
   "suluPackage": true,
   "name": "sulu-dev-tools",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Show Chrome Dev Tools in SULU fileexplorer",
   "main": "index.js",
   "scripts": {
