@@ -1,14 +1,14 @@
 {
   "suluPackage": {
-    "hotkeys" : [
+    "hotkeys": [
       {
-        "key" : "f12" , 
-        "function" : "toggleDevTools"
+        "key": "f12",
+        "function": "toggleDevTools"
       }
     ]
   },
   "name": "sulu-dev-tools",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Show Chrome Dev Tools in SULU fileexplorer",
   "main": "index.js",
   "scripts": {
