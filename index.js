@@ -12,7 +12,6 @@ Command.prototype.toggleDevTools = function toggleDevTools() {
 
 var Plugin = function devTools(client) {
 	this.command = new Command();
-	client.app.registerHotKey("f12", this.command.toggleDevTools);
 };
 
 module.exports = Plugin;
